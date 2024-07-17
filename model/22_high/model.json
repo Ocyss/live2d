@@ -3,7 +3,6 @@
 	"name": "22",
 	"model": "model.moc",
 	"textures": [
-		"textures/texture_00.png",
 		"textures/texture_00 (1).png"
 	],
 	"hit_areas_custom": {
